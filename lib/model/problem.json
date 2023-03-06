@@ -1,0 +1,18 @@
+{
+  "id" : "number",
+  "theme" : "string",
+  "sentence" : "string",
+  "diagnoses" : [
+    {
+      "start" : "number",
+      "end" : "number",
+      "pronunciation" : "string",
+      "treatments" : [
+        {
+          "sentence" : "string",
+          "pronunciation" : "string"
+        }
+      ]
+    }
+  ]
+}

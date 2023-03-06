@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "935358101985",
+    "firebase_url": "https://speakean-961d1-default-rtdb.firebaseio.com",
+    "project_id": "speakean-961d1",
+    "storage_bucket": "speakean-961d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935358101985:android:201c10e06fd95fdc907aa0",
+        "android_client_info": {
+          "package_name": "com.speakean.speakean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935358101985-agpn6qapmj7amv7g5tvg7ak0r7uu5ecp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYsahSmJpDgK7MQs-2PjWznhzBbM9KMeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935358101985-agpn6qapmj7amv7g5tvg7ak0r7uu5ecp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
